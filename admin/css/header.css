@@ -1,0 +1,125 @@
+.header
+{
+
+}
+
+.header-top
+{
+	height: 40px;
+	background-color: #19232E;
+	border-bottom: 1px #163245 solid;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	z-index: 100;
+}
+
+	.website-title
+	{
+		color: #FFF;
+		font-family: 'Lato', sans-serif;
+		font-weight: 400;
+		font-size: 1rem;
+		padding: 8px 0px 0px 10px;
+	}
+
+.menu-admin
+{
+	position: fixed;
+	left: 0px;
+	top: 40px;
+	bottom: 0px;
+	width: 200px;
+	background-color: #19232E;
+	border-right: 1px #163245 solid;
+}
+
+.menu-right
+{
+	position: fixed;
+	right: 20px;
+	top: 2px;
+	z-index: 101;
+}
+
+.account-menu
+{
+	list-style: none;
+	list-style-type: none;
+	padding: 0px;
+	margin: 0px;
+}
+
+.account-menu li a
+{
+	color: #FFF;
+	display: block;
+	padding: 8px 10px 8px 10px;
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	font-size: 0.8rem;
+}
+
+.account-menu li a:hover
+{
+	color: #FFF;
+	display: block;
+	padding: 8px 10px 8px 10px;
+	background-color: #EB9532;
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	font-size: 0.8rem;
+}
+
+.account-menu .current-nav
+{
+	background-color: #EB9532;
+}
+
+.main-menu
+{
+	list-style: none;
+	list-style-type: none;
+	padding: 0px;
+	margin: 0px;
+}
+
+.main-menu li a
+{
+	color: #FFF;
+	display: block;
+	padding: 8px 0px 8px 10px;
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	font-size: 0.8rem;
+}
+
+.main-menu li a:hover
+{
+	color: #FFF;
+	display: block;
+	padding: 8px 0px 8px 10px;
+	background-color: #EB9532;
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	font-size: 0.8rem;
+}
+
+.main-menu .current-nav
+{
+	background-color: #EB9532;
+}
+
+.menu-admin i
+{
+	width: 20px;
+}
+
+.f-dropdown
+{
+	width: 100px;
+	background-color: rgba(0, 0, 0, 0.8);
+	outline: 0px;
+	border-color: #333;
+}

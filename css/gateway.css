@@ -1,0 +1,186 @@
+.gateway
+{
+	margin-top: 80px;
+}
+
+label
+{
+	color: rgba(241, 196, 15, 1);
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	font-size: 0.8rem;
+}
+
+input[type="text"]
+{
+	padding: 10px;
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	font-size: 0.8rem;
+}
+
+.gateway-box
+{
+	width: 400px;
+	min-height: 150px;
+	background-color: #111;
+	border: 1px #222 solid;
+	margin: 0 auto;
+	margin-bottom: 30px;
+}
+
+.gateway-box-header
+{
+	background-color: #2980b9;
+	height: 35px;
+	color: #FFF;
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	font-size: 0.9rem;
+	padding: 6px 10px 0px 10px;
+}
+
+.gateway-item
+{
+	padding: 10px;
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	font-size: 0.8rem;
+}
+
+.gateway-inputfield
+{
+	padding: 10px;
+}
+
+.gateway-subtotal
+{
+	background-color: #111;
+	border-top: 2px #222 solid;
+	border-bottom: 2px #222 solid;
+}
+
+.gateway-button
+{
+	text-align: center;
+	padding: 10px;
+}
+
+.button.small
+{
+	margin: 0px;
+}
+
+.item
+{
+	background-color: #111;
+	border: 1px #222 solid;
+	padding: 5px;
+}
+
+.success
+{
+	margin-top: 200px;
+}
+
+.success-box
+{
+	width: 350px;
+	min-height: 150px;
+	background-color: #111;
+	border: 1px #222 solid;
+	margin: 0 auto;
+}
+
+.success-box-header
+{
+	padding: 10px;
+	text-align: center;
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	font-size: 1rem;
+	color: rgba(241, 196, 15, 1);
+}
+
+.success-box-content
+{
+	padding: 10px;
+	text-align: center;
+}
+
+.shop-item
+{
+	padding: 0px;
+}
+
+table
+{
+	background-color: transparent !important;
+	padding: 0px;
+	margin: 0px;
+}
+
+thead
+{
+	background-color: transparent !important;
+	padding: 0px;
+}
+
+tbody
+{
+	background-color: transparent !important;
+	padding: 0px;
+}
+
+tr
+{
+	background-color: transparent !important;
+	padding: 0px;
+}
+
+td
+{
+	background-color: transparent !important;
+	padding: 0px;
+}
+
+.item-right
+{
+	float: right;
+}
+
+#tabs
+{
+	width: 100%;
+	min-height: 40px;
+}
+
+.tabs-header
+{
+	width: 100%;
+	height: 40px;
+	background-color: #222;
+}
+
+#tabs ul
+{
+	list-style: none;
+	list-style-type: none;
+	margin: 0px;
+	background-color: #222;
+}
+
+#tabs ul li a
+{
+	text-decoration: none;
+	float: left;
+	padding: 10px 15px 10px 15px;
+	color: #FFF;
+	background-color: #222;
+}
+
+#tabs ul li a.current
+{
+	background-color: #333;
+}
+

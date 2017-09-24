@@ -1,0 +1,229 @@
+.footer
+{
+
+}
+
+.footer-line
+{
+	min-height: 40px;
+	padding: 10px 0px 10px 10px;
+}
+
+.footer-line-small
+{
+	min-height: 40px;
+	padding: 10px 10px 10px 10px;
+	text-align: center;
+}
+
+.footer-line-small .footer-menu li a
+{
+	width: 100%;
+	color: #CCC;
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	font-size: 0.8rem;
+	padding: 8px 15px 8px 15px;
+	margin: 5px 10px 5px 0px;
+	border: 2px #222 solid;
+	float: left;
+	-webkit-transition: border-color 300ms linear;
+    -moz-transition: border-color 300ms linear;
+    -o-transition: border-color 300ms linear;
+    -ms-transition: border-color 300ms linear;
+    transition: border-color 300ms linear;
+}
+
+.footer-line-small .footer-menu li a:hover
+{
+	width: 100%;
+	color: #FFF;
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	font-size: 0.8rem;
+	padding: 8px 15px 8px 15px;
+	margin: 5px 10px 5px 0px;
+	border: 2px rgba(52, 152, 219, 0.8) solid;
+	float: left;
+	-webkit-transition: border-color 300ms linear;
+    -moz-transition: border-color 300ms linear;
+    -o-transition: border-color 300ms linear;
+    -ms-transition: border-color 300ms linear;
+    transition: border-color 300ms linear;
+}
+
+.copyright
+{
+	padding: 15px 0px 15px 0px;
+	text-align: center;
+	color: #CCC;
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	font-size: 0.8rem;
+}
+
+.footer-menu
+{
+	list-style: none;
+	list-style-type: none;
+	padding: 0px;
+	margin: 0px;
+}
+
+.footer-menu li a
+{
+	color: #CCC;
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	font-size: 0.8rem;
+	padding: 8px 15px 8px 15px;
+	margin: 0px 10px 0px 0px;
+	border: 2px #222 solid;
+	float: left;
+	-webkit-transition: border-color 300ms linear;
+    -moz-transition: border-color 300ms linear;
+    -o-transition: border-color 300ms linear;
+    -ms-transition: border-color 300ms linear;
+    transition: border-color 300ms linear;
+}
+
+.footer-menu li a:hover
+{
+	color: #FFF;
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	font-size: 0.8rem;
+	padding: 8px 15px 8px 15px;
+	margin: 0px 10px 0px 0px;
+	border: 2px rgba(52, 152, 219, 0.8) solid;
+	float: left;
+	-webkit-transition: border-color 300ms linear;
+    -moz-transition: border-color 300ms linear;
+    -o-transition: border-color 300ms linear;
+    -ms-transition: border-color 300ms linear;
+    transition: border-color 300ms linear;
+}
+
+.footer-menu .current-nav
+{
+	color: #FFF;
+	border: 2px rgba(52, 152, 219, 0.8) solid;
+}
+
+.footer-social
+{
+	float: right;
+}
+
+.footer-social-small
+{
+
+}
+
+.social-menu
+{
+	list-style: none;
+	list-style-type: none;
+	padding: 0px;
+	margin: 0px;
+}
+
+.social-menu-small
+{
+	list-style: none;
+	list-style-type: none;
+	padding: 0px;
+	margin: 0 auto;
+}
+
+.social-menu li
+{
+	float: left;
+}
+
+.social-menu li a
+{
+	width: 40px;
+	color: #AAA;
+	text-align: center;
+	padding: 8px 8px 8px 8px;
+	margin: 0px 10px 0px 0px;
+	font-size: 1.4rem;
+	border: 2px #222 solid;
+	float: left;
+	-webkit-transition: border-color 300ms linear;
+    -moz-transition: border-color 300ms linear;
+    -o-transition: border-color 300ms linear;
+    -ms-transition: border-color 300ms linear;
+    transition: border-color 300ms linear;
+}
+
+.social-menu li a:hover
+{
+	width: 40px;
+	color: #FFF;
+	text-align: center;
+	padding: 8px 8px 8px 8px;
+	margin: 0px 10px 0px 0px;
+	font-size: 1.4rem;
+	border: 2px rgba(52, 152, 219, 0.8) solid;
+	float: left;
+	-webkit-transition: border-color 300ms linear;
+    -moz-transition: border-color 300ms linear;
+    -o-transition: border-color 300ms linear;
+    -ms-transition: border-color 300ms linear;
+    transition: border-color 300ms linear;
+}
+
+.social-menu-small li
+{
+	float: left;
+}
+
+.social-menu-small li a
+{
+	width: 40px;
+	color: #AAA;
+	text-align: center;
+	padding: 8px 7px 8px 8px;
+	margin: 0px 10px 0px 0px;
+	font-size: 1.4rem;
+	border: 2px #222 solid;
+	float: left;
+	-webkit-transition: border-color 300ms linear;
+    -moz-transition: border-color 300ms linear;
+    -o-transition: border-color 300ms linear;
+    -ms-transition: border-color 300ms linear;
+    transition: border-color 300ms linear;
+}
+
+.social-menu-small li a:hover
+{
+	width: 40px;
+	color: #FFF;
+	text-align: center;
+	padding: 8px 7px 8px 8px;
+	margin: 0px 10px 0px 0px;
+	font-size: 1.4rem;
+	border: 2px rgba(52, 152, 219, 0.8) solid;
+	float: left;
+	-webkit-transition: border-color 300ms linear;
+    -moz-transition: border-color 300ms linear;
+    -o-transition: border-color 300ms linear;
+    -ms-transition: border-color 300ms linear;
+    transition: border-color 300ms linear;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

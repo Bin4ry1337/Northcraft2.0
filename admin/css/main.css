@@ -1,0 +1,62 @@
+body
+{
+	color: #000;
+	background-color: #111;
+	/*background-image: url('../img/bg.png');*/
+	font-family: 'Lato', sans-serif; /* Default Font Family */
+	font-weight: 400;
+	font-size: 0.8rem;
+	padding: 0;
+	margin: 0;
+}
+
+
+
+/*
+	Foundation
+*/
+
+.row
+{
+	
+}
+
+.columns
+{
+}
+
+.column
+{
+	padding: 0px;
+}
+
+label
+{
+	color: #888 !important;
+}
+
+
+
+/*
+	Bin4ryCMS Classes
+*/
+
+.bold
+{
+	font-weight: 700;
+}
+
+.thin
+{
+	font-weight: 200;
+}
+
+.large
+{
+	font-size: 1rem;
+}
+
+.small
+{
+	font-size: 0.75rem;
+}

@@ -1,0 +1,306 @@
+.content
+{
+	position: absolute;
+	max-width: 1700px;
+	left: 210px;
+	top: 50px;
+	right: 10px;
+	bottom: 10px;
+}
+
+.content-content
+{
+	padding: 10px;
+}
+
+.content-box
+{
+	background-color: #19232E;
+	border: 1px #163245 solid;
+}
+
+.content-box-header
+{
+	height: 40px;
+	color: #CCC;
+	background-color: #22303F;
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	font-size: 0.9rem;
+	padding: 10px 0px 0px 10px;
+	border-bottom: 1px #163245 solid;
+}
+
+.content-box-content
+{
+	min-height: 100px;
+	color: #FFF;
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	font-size: 1rem;
+}
+
+.content-box-content2
+{
+	padding: 10px;
+	min-height: 100px;
+	color: #FFF;
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	font-size: 1rem;
+}
+
+.content-box table
+{
+	width: 100%;
+	background-color: transparent !important;
+	border: 0px;
+	border-collapse: collapse;
+	margin: 0px;
+}
+
+.content-box thead
+{
+	background-color: transparent !important;
+	border: 0px;
+}
+
+.content-box th
+{
+	background-color: #1C4159 !important;
+	border: 0px;
+	color: #FFF;
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	font-size: 0.9rem;
+}
+
+.content-box tbody
+{
+	background-color: transparent !important;
+	border: 0px;
+}
+
+.content-box tr:nth-child(even)
+{
+	background-color: #070A0D !important;
+	border: 0px;
+}
+
+.content-box tr:nth-child(odd)
+{
+	background-color: #19232E !important;
+	border: 0px;
+}
+
+.content-box td
+{
+	background-color: transparent !important;
+	border: 0px;
+	color: #CCC;
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	font-size: 0.8rem;
+}
+
+.content-strip
+{
+	padding: 0px 0px 0px 10px;
+}
+
+.content-strip .button.small
+{
+	height: 35px;
+	padding: 10px 20px 10px 20px;
+	margin: 0px;
+}
+
+
+/*
+	News
+*/
+
+.news
+{
+	padding: 10px;
+}
+
+.news .button.small
+{
+	height: 35px;
+	padding: 10px 20px 10px 20px;
+	margin: 0px;
+}
+
+.button.small
+{
+	height: 35px;
+	padding: 10px 20px 10px 20px;
+	margin: 0px;
+}
+
+.news label
+{
+	color: #CCC;
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	font-size: 0.8rem;
+	padding-bottom: 2px;
+}
+
+.news-bottom
+{
+	margin-bottom: 10px;
+}
+
+.response
+{
+	padding-left: 5px;
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	font-size: 0.9rem;
+}
+
+.content-box-strip
+{
+	height: 40px;
+	color: #EEE;
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	font-size: 0.9rem;
+	padding: 8px 10px 10px 10px;
+}
+
+.content-box-strip-left
+{
+
+}
+
+.content-box-strip-right
+{
+	text-align: right;
+}
+
+.odd
+{
+	background-color: #19232E !important;
+}
+
+.even
+{
+	background-color: #070A0D !important;
+}
+
+.small-textarea
+{
+	height: 100px;
+	resize: none;
+}
+
+.normal-textarea
+{
+	height: 300px;
+	resize: none;
+}
+
+.error-box-content
+{
+	color: #e74c3c;
+	padding: 8px;
+}
+
+#mceu_14, #mceu_46
+{
+	width: 100%;
+	margin-bottom: 40px;
+}
+
+.navigation
+{
+	margin-top: 0px;
+	padding-left: 10px;
+	margin-bottom: 30px;
+}
+
+.navigation2
+{
+	padding: 10px;
+	margin-top: -35px;
+	margin-bottom: 30px;
+}
+
+.nav-menu
+{
+	list-style: none;
+	list-style-type: none;
+	padding: 0px;
+	margin: 0px 0px 0px 0px;
+}
+
+.nav-menu li a
+{
+	color: #FFF;
+	padding: 3px 6px 3px 6px;
+	margin-right: 5px;
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	font-size: 0.8rem;
+	float: left;
+	-webkit-transition: background-color 300ms linear;
+    -moz-transition: background-color 300ms linear;
+    -o-transition: background-color 300ms linear;
+    -ms-transition: background-color 300ms linear;
+    transition: background-color 300ms linear;
+}
+
+.nav-menu li a:hover
+{
+	color: #FFF;
+	padding: 3px 6px 3px 6px;
+	margin-right: 5px;
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	font-size: 0.8rem;
+	background-color: rgba(52, 152, 219, 0.8);
+	float: left;
+	cursor: pointer;
+	-webkit-transition: background-color 300ms linear;
+    -moz-transition: background-color 300ms linear;
+    -o-transition: background-color 300ms linear;
+    -ms-transition: background-color 300ms linear;
+    transition: background-color 300ms linear;
+}
+
+.nav-menu .current-nav
+{
+	background-color: rgba(52, 152, 219, 0.8);
+}
+
+#ticket-modal
+{
+	background-color: rgba(0, 0, 0, 0.5);
+	border: 1px #222 solid;
+	color: #FFF;
+}
+
+.close-reveal-modal
+{
+	font-size: 1.4rem !important;
+	padding: 5px;
+	margin: 0px;
+	position: absolute;
+	right: 5px;
+	top: 5px;
+}
+
+.ticket-message
+{
+	padding: 10px;
+	font-size: 0.8rem;
+}
+
+.wysibb
+{
+	margin-bottom: 10px;
+	color: #111;
+}

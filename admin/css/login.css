@@ -1,0 +1,56 @@
+.content
+{
+	margin-top: 50px;
+}
+
+.login-box
+{
+	width: 350px;
+	margin: 0 auto;
+	background-color: #222;
+}
+
+.login-box-header
+{
+	height: 40px;
+	color: #CCC;
+	padding: 10px;
+	background-color: #22303F;
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	font-size: 0.9rem;
+	padding: 10px 0px 0px 10px;
+	border-bottom: 1px #163245 solid;
+}
+
+.login-box-content
+{
+	min-height: 100px;
+	padding: 10px;
+	color: #FFF;
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	font-size: 1rem;
+	background-color: #19232E;
+	border: 1px #163245 solid;
+}
+
+.login-box-content input[type="text"], input[type="password"]
+{
+	height: 35px;
+}
+
+.login-box-content .button.small
+{
+	height: 35px;
+	padding: 10px 20px 10px 20px;
+	margin: 0px;
+}
+
+.response
+{
+	padding-left: 5px;
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	font-size: 0.9rem;
+}
